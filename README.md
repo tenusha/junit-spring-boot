@@ -1,2 +1,2 @@
-# junit-spring-boot
+# Junit with Spring Boot
 junit-spring-boot
