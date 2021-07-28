@@ -17,9 +17,6 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>tenusha_junit-spring-boot</sonar.projectKey>
-	        <sonar.organization>tenusha</sonar.organization>
-	        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 
 	<dependencies>
